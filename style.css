@@ -1,0 +1,62 @@
+#caluclator{
+  border: 1px solid rgb(197, 196, 196);
+  border-radius: 5px;
+  width: 400px;
+  background-color: aqua;
+}
+
+#display{
+  width: 85%;
+  margin: 20px;
+  font-size: 50px;
+  /* background-color: rgb(238, 47, 255); */
+}
+
+.button{
+  width: 100px;
+  height: 90px;
+  margin: 3px;
+  font-weight: 900;
+  font-size: 30px;
+  background-color: palevioletred;
+}
+
+.button-con{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .bag{
+  text-transform: capitalize;
+  background-color: lightgreen;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 25px 5px 25px;
+  font-weight: 800;
+}
+
+.wish{
+  text-transform: uppercase;
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 5px 38px 5px 38px;
+  font-weight: 800;
+} */
